@@ -1,0 +1,18 @@
+{
+  "description": "Qubit Graph is a Bloch sphere graph state visualisation library, developed by gluoNNet and member of the CERN Webfest 2021 hackathon. It allows to visualise quantum computing graph states using Bloch spheres as nodes of the graph.",
+  "main": "index.tsx",
+  "dependencies": {
+    "@antv/g6": "4.3.5",
+    "@antv/graphin": "2.3.1",
+    "@antv/graphin-components": "2.3.0",
+    "@antv/graphin-icons": "1.0.0",
+    "antd": "4.12.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "keywords": ["qubit", "graph", "Bloch sphere", "Graph state"],
+  "name": "qubit-graph-cern-webfest-2021-demo"
+}

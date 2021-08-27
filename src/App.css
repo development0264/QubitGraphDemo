@@ -1,0 +1,30 @@
+/* div#graphin-container canvas {
+    height: 701px;
+} */
+canvas {
+    aspect-ratio: auto 1040 / 500;
+}
+
+
+button {
+    margin-left:20px;
+margin-top: 20px;
+ background-color: green;
+ padding: 10px;
+ color: white;
+ border-radius: 10px;
+}
+
+.deleteBtn {
+    margin-top: 20px;
+     background-color: red;
+     padding: 10px;
+     color: white;
+     border-radius: 10px;
+}
+
+.button-view{
+    width: 14%;
+    display: flex;
+    justify-content: space-between;
+}
